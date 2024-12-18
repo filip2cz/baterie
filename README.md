@@ -18,5 +18,6 @@
 | 751740        | 3,7           | 500               | 1,85          | hranatá       | 1     |
 | BRT751740     | 3,7           | 500               | 1,85          | hranatá       | 2     |
 | IP801437D3R2  | 3,7           | 400               | 1,48          | hranatá       | 1     |
+| ZVTE-P        | 3,7           | 550               | ?             | hranatá       | 1     |
 
 *tato hodnota není napsaná na baterce, ale změřil jsem ji pomocí přístroje k tomu určenému
