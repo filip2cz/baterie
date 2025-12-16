@@ -22,3 +22,5 @@
 
 *tato hodnota není napsaná na baterce, ale změřil jsem ji pomocí přístroje k tomu určenému
 **tato hodnota není napsaná na baterce, ale spočítal jsem ji z jiných známých hodnot
+
+# poznámka: mám spoustu dalších 13300 a 13400, jejichž kapacitu jsem zatím ovšem nezměřil, takže nevím, jestli už nejsou třeba poloviční
